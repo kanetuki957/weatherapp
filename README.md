@@ -47,15 +47,6 @@ npm run dev
 雪	　｜白〜水色系<br>
 その他	｜淡いグレー<br>
 
-#ディレクトリ構成
-<br>
-src/
-├── App.jsx               メインコンポーネント<br>
-├── WeatherCard.jsx       現在の天気カード<br>
-├── ForecastCard.jsx      週間予報カード<br>
-├── cityMap.json          日本語 → 英語変換用データ<br>
-├── App.css               デザイン全般<br>
-└── assets/               画像・アイコン類<br>
 
 #今後の拡張予定
 <br>
