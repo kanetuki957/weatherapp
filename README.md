@@ -11,10 +11,10 @@
 
 #使用技術：バージョン
 <br>
-Node.js   20.x
-フロントエンド:React(Vite) 18.x
-言語:JavaScript/JSX 5.x
-API:[OpenWeatherMap API](https://openweathermap.org/api)
+Node.js   20.x<br>
+フロントエンド:React(Vite) 18.x<br>
+言語:JavaScript/JSX 5.x<br>
+API:[OpenWeatherMap API](https://openweathermap.org/api)<br>
 スタイル:CSS(カスタムクラスで背景変化)
 <br>
 #セットアップ方法
@@ -40,12 +40,12 @@ npm run dev
 
 #背景カラーの変化
 <br>
-天気	｜カラーイメージ
-晴れ	｜明るい黄色〜オレンジ
-曇り	｜グレー系
-雨	　｜青系
-雪	　｜白〜水色系
-その他	｜淡いグレー
+天気	｜カラーイメージ<br>
+晴れ	｜明るい黄色〜オレンジ<br>
+曇り	｜グレー系<br>
+雨	　｜青系<br>
+雪	　｜白〜水色系<br>
+その他	｜淡いグレー<br>
 
 #ディレクトリ構成
 <br>
