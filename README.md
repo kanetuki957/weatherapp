@@ -10,13 +10,15 @@
 ・日本語で天気情報を取得（OpenWeatherMap API 利用）
 
 #使用技術：バージョン
+<br>
 Node.js   20.x
 フロントエンド:React(Vite) 18.x
 言語:JavaScript/JSX 5.x
 API:[OpenWeatherMap API](https://openweathermap.org/api)
 スタイル:CSS(カスタムクラスで背景変化)
-
+<br>
 #セットアップ方法
+<br>
 ①リポジトリをクローン
 git clone https://github.com/ユーザー名/react-weather-app.git
 cd react-weather-app
