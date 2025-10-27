@@ -22,19 +22,24 @@ API:[OpenWeatherMap API](https://openweathermap.org/api)
 ①リポジトリをクローン
 git clone https://github.com/ユーザー名/react-weather-app.git
 cd react-weather-app
-
+<br>
 ②依存関係のインストール
+<br>
 npm install
 
 ③.env ファイルを作成
-プロジェクト直下に .env を作り、以下を記述します：
+<br>
+プロジェクト直下に .env を作り、以下を記述します：<br>
 VITE_API_KEY=あなたのOpenWeatherMapのAPIキー
 ・APIキーは OpenWeatherMap公式サイトで無料登録すると取得できます。
 
+<br>
 ④開発サーバーの起動
+<br>
 npm run dev
 
 #背景カラーの変化
+<br>
 天気	｜カラーイメージ
 晴れ	｜明るい黄色〜オレンジ
 曇り	｜グレー系
@@ -43,6 +48,7 @@ npm run dev
 その他	｜淡いグレー
 
 #ディレクトリ構成
+<br>
 src/
 ├── App.jsx               メインコンポーネント
 ├── WeatherCard.jsx       現在の天気カード
@@ -52,6 +58,7 @@ src/
 └── assets/               画像・アイコン類
 
 #今後の拡張予定
+<br>
 ・現在地から自動で天気を取得
 ・天気に合わせたコメント表示
 ・世界の都市への対応
